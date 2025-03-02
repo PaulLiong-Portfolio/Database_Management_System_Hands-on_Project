@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-- From a Task Force Project Group
+- Form a Task Force Project Group
 - Design and implement a new relational database for a small corner shop the sells a range of groceries and domestic products
 
 ## Results
