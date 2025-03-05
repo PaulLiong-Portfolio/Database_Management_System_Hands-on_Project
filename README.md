@@ -9,7 +9,8 @@
 
 ![Design Preview](https://github.com/user-attachments/assets/4862b544-b9cd-416a-a7fc-8fbabc314088)
 
-[🔎 View Full](https://github.com/user-attachments/files/19044313/RelationalDB_Design.pdf)
+<!--- [🔎 View Full](https://github.com/user-attachments/files/19044313/RelationalDB_Design.pdf) --->
+[👁️ View Full]()
 
 # Project 2: Perform Data Analysis Using MySQL
 
@@ -21,4 +22,5 @@
 ## Results
 ![Answer Preview](https://github.com/user-attachments/assets/5ca5fc9b-10f5-41e2-9109-f9532faae084)
 
-[🔎 View Full](https://github.com/user-attachments/files/19044414/MySQL_Data_Analysis-Practice.pdf)
+<!--- [🔎 View Full](https://github.com/user-attachments/files/19044414/MySQL_Data_Analysis-Practice.pdf) --->
+[👁️ View Full]()
